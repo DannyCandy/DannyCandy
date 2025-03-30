@@ -1,4 +1,8 @@
 <!-- dann -->
+<a href="#" target="_blank">
+  <img src="svg/dann.svg" width="1200" alt="danndev-official" />
+</a>
+<br>
 <h1 align="center">Hi 👋, I'm Đan Nguyễn</h1>
 <p align="center">🎓 Final-year Software Engineering Student | 💻 Passionate about Software Development</p>
 
