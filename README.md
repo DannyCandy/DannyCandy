@@ -3,15 +3,15 @@
   <img src="svg/dann.svg" width="1200" alt="danndev-official" />
 </a>
 <br>
-<h1 align="center">Hi 👋, I'm Đan Nguyễn</h1>
-<p align="center">🎓 Final-year Software Engineering Student | 💻 Passionate about Software Development</p>
+<h1 align="center">Hi 👋, I'm Nguyễn Đan</h1>
+<p align="center">🎓 Software Engineer | 💻 Passionate about Software Development and Embbeded Programming</p>
 
 ---
 
 ### 👤 About Me:
 - 🧠 I enjoy learning by doing and exploring new technologies
 - 💬 Ask me about anything related to web development
-- 📫 Contact me: **dankbzzz01@gmail.com**
+- 📫 Contact me: **dannguyen.work.it@gmail.com**
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -62,7 +62,7 @@
   <a href="https://www.instagram.com/dankbzzz01/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="dann-instagram" />
   </a>
-  <a href="mailto:dankbzzz01@gmail.com" target="top">
+  <a href="mailto:dannguyen.work.it@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dann-email" />
   </a>
 </div>
